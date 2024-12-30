@@ -22,7 +22,7 @@
 
 ## Repository Description
 
-On this website, you can see basic and advanced English sentence patterns. Each sentence pattern has example sentences under the "model" section and its grammar and usage are explained under "grammar" and "usage" sections. There are some writing exercises under "practice".   
+On this website, you can see basic and advanced English sentence patterns. Each sentence pattern has example sentences under the "model" section and its grammar and usage are explained under the "grammar" and "usage" sections. There are some writing exercises under "practice".   
 
 ## Credits 
 
