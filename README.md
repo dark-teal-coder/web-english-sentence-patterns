@@ -36,4 +36,4 @@ On this website, you can see basic and advanced English sentence patterns. Each 
 
 &nbsp;
 
-*1st Completion Date: Xxx 00, 0000*&emsp;
+*1st Completion Date: Mar 03, 2025*&emsp;
