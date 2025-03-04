@@ -7,7 +7,7 @@
 - <ins>Website Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
 - <ins>First Published Date</ins>: 2024-12-28
 - <ins>Website URL</ins>: https://dark-teal-coder.github.io/web-english-sentence-patterns/
-<img src="./qrcode_178600154_863c68f72c828f749d1acbe94ea639b7.png" alt="QR code" width="50%" height="50%" align="center">
+<img src="./qrcode_178600154_863c68f72c828f749d1acbe94ea639b7.png" alt="QR code" width="50%" height="50%" align="centre">
 <img src="https://raw.githubusercontent.com/dark-teal-coder/dark-teal-coder/main/images/coder-no-background-000-128-128.png" 
      alt="coder-black-background-000-128-128.png" width="100" height="100" align="right" style="margin:0px 5%; padding: 5px;">
 
