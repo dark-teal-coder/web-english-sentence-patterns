@@ -4,7 +4,7 @@
 
 ## Metadata
 
-<img src="./qrcode_178616024_47a1e7117b6effbf6810db014fdaad91.png" alt="QR code" width="20%" height="20%" align="right" style="margin:0px 5%; padding: 5px;">
+<img src="./qrcode-home-page.png" alt="QR code" width="20%" height="20%" align="right" style="margin:0px 5%; padding: 5px;">
 
 - <ins>Website Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
 - <ins>First Published Date</ins>: 2024-12-28
