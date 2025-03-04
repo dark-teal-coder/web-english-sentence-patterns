@@ -35,6 +35,7 @@ On this website, you can see basic and advanced English sentence patterns. Each 
 ### References 
 
 - [Creating a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+- [QR Code Generator](https://me-qr.com/qr-code-generator/link)
 
 &nbsp;
 
